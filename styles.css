@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    background-color:#e4dbdb;
+}
+
+.hero{
+    background-image: url(hungry-poor-old-mans-hands-an-empty-bowl-selective-focus-poverty-in-picture-id1301538713.jpg);
+    height:500px;
+    background-size: cover;
+    background-position: right center;
+    padding-top: 1px;
+}
+
+.hero-content{
+    margin: 80px auto 0;
+    width: 80%;
+    text-align: center;
+    
+}
+
+.hero-content h1{
+    font-size: 50px;
+    text-shadow: 2px 2px 2px white ; 
+    margin-bottom: 0;
+    
+}
+
+
+
+.hero-content p{
+    background-color: rgba(0,0,0,.4);
+    font-size:20px;
+    display: inline-block;
+    padding: 16px;
+    border-bottom: 2px solid;
+    color:white
+}
+.container p{
+    font-size:20px;
+}
+
+.paragrafo5 ul{
+    font-size:20px;
+}
+
+
+.menu ul{
+ margin: 20px 80px 0 0;   
+ text-align: right;
+}
+
+.menu li{
+    display: inline-block;
+    list-style-type: none;
+    border: 1px solid white;
+    margin-left: 16px;
+}
+
+.menu a{
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    display: block;
+    color: wheat;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 1px;
+
+}
+
+.menu-fixed{
+    position: fixed;
+    width: 100%;
+}
+
+.menu a:hover{
+    background-color: rgba(0,0,0,.7);
+}
+
+.info{
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 5px;
+    display: inline-block;
+    color:white;
+    text-decoration:dashed;
+    font-size: 20px;
+    border: 1px solid white;
+}
+
+.img2{
+    width: 75%;
+    height: 50%;
+   
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+    max-width: 860px;
+
+}
+
+
+.rodape{
+    color: white;
+    background-color: black;
+    padding: 30px;
+    letter-spacing: 2px;
+}
+
+.video{
+    padding-top: 15px;
+}
